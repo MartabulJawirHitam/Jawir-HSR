@@ -64,8 +64,3 @@
 - **Hide UID**
 - **Always Turn**
 - **LUA Executor**
-
----
-<p align="center">
-  <i>**JAWA JAWA JAWA JAWA JAWA JAWA JAWA**</i>
-</p>
