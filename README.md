@@ -2,10 +2,6 @@
   <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i.imgur.com/mEPkms0.png">
 </p>
 
-<p align="center">
- <a href="https://discord.gg/dV9j8zTp"><img src="https://img.shields.io/discord/1207191906958975006?label=Discord&logo=discord&style=for-the-badge&color=blue"></a>
-</p>
-
 <h1 align="center">Getting Started</h1>
 
 ### Usage
