@@ -27,6 +27,7 @@
 #### World
 - **Dumb Enemies**
 - **Global Speed Changer**
+- **Battle Speed Changer**
 - **Mob Vacuum**
 - **Infinity Technique Points**
 - **Auto Claim Achievement**
