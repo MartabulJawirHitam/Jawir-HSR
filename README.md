@@ -30,7 +30,6 @@
 - **Battle Speed Changer**
 - **Mob Vacuum**
 - **Infinity Technique Points**
-- **Auto Claim Achievement**
 
 #### Visuals
 - **ESP**
@@ -44,6 +43,7 @@
 #### Misc
 - **Save\Load\Reset Config**
 - **Key Bind Menu** (INSERT DEFAULT)
+- **Auto Claim Achievement**
 - **FPS Unlocker**
 - **Active Features List**
 
