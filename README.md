@@ -2,6 +2,10 @@
   <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i.imgur.com/du53B3S.png">
 </p>
 
+<p align="center">
+ <a href="https://discord.gg/dV9j8zTp"><img src="https://img.shields.io/discord/1449064327494635573?label=Discord&logo=discord&style=for-the-badge&color=blue"></a>
+</p>
+
 <h1 align="center">Getting Started</h1>
 
 ### Usage
@@ -41,6 +45,24 @@
 - **Key Bind Menu** (INSERT DEFAULT)
 - **FPS Unlocker**
 - **Active Features List**
+
+<h1 align="center">Development Status</h1>
+
+#### WIP (Work in Progress)
+- **Skin Changer**
+- **Unlock Auto Battle**
+- **Character Scale**
+
+#### Testing / Next Update
+- **Kill Aura** (On world, not battle)
+- **Auto Puzzle**
+- **Visual Signature Light Cone**
+- **Auto Talk**
+- **Skip Cutscene**
+- **Auto Message**
+- **Hide UID**
+- **Always Turn**
+- **LUA Executor**
 
 ---
 <p align="center">
