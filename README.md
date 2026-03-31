@@ -67,5 +67,5 @@
 
 ---
 <p align="center">
-  <i>This project is for educational purposes only. Use at your own risk.</i>
+  <i>**JAWA JAWA JAWA JAWA JAWA JAWA JAWA**</i>
 </p>
