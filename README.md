@@ -21,15 +21,23 @@
 #### Player
 - **NoClip**
 - **Teleport** (Monster, Chest & Puzzle, Quest)
+- **Auto Teleport Chest**
+- **Character Scale**
+- **Character Speed Changer**
 - **Max Eidolons** (E6)
 - **Max Light Cone** (S5)
 
 #### World
+- **Auto Chest Teleport**
 - **Dumb Enemies**
+- **Auto Puzzle**
 - **Global Speed Changer**
 - **Battle Speed Changer**
+- **Chest Vacuum**
 - **Mob Vacuum**
 - **Infinity Technique Points**
+- **Skip Cutscene**
+- **Auto Message**
 
 #### Visuals
 - **ESP**
@@ -39,12 +47,15 @@
 - **Free Camera**
 - **Hide UI**
 - **Peeking**
+- **Currency Editor**
+- **Visual Signature Light Cone**
 
 #### Misc
 - **Save\Load\Reset Config**
 - **Key Bind Menu** (INSERT DEFAULT)
 - **Auto Claim Achievement**
 - **FPS Unlocker**
+- **Fast Exit**
 - **Active Features List**
 
 <h1 align="center">Development Status</h1>
@@ -52,15 +63,14 @@
 #### WIP (Work in Progress)
 - **Skin Changer**
 - **Unlock Auto Battle**
-- **Character Scale**
+- **All Cheat Event**
+- **Space Anchor Teleport**
 
 #### Testing / Next Update
 - **Kill Aura** (On world, not battle)
-- **Auto Puzzle**
-- **Visual Signature Light Cone**
+- **Stats Editor**
+- **Instant Win**
 - **Auto Talk**
-- **Skip Cutscene**
-- **Auto Message**
 - **Hide UID**
 - **Always Turn**
 - **LUA Executor**
