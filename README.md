@@ -24,8 +24,6 @@
 - **Auto Teleport Chest**
 - **Character Scale**
 - **Character Speed Changer**
-- **Max Eidolons** (E6)
-- **Max Light Cone** (S5)
 
 #### World
 - **Auto Chest Teleport**
@@ -48,15 +46,17 @@
 - **Hide UI**
 - **Peeking**
 - **Currency Editor**
+- **Max Eidolons** (E6)
+- **Max Light Cone** (S5)
 - **Visual Signature Light Cone**
 
 #### Misc
-- **Save\Load\Reset Config**
 - **Key Bind Menu** (INSERT DEFAULT)
+- **Config**
 - **Auto Claim Achievement**
 - **FPS Unlocker**
 - **Fast Exit**
-- **Active Features List**
+- **Active Features**
 
 <h1 align="center">Development Status</h1>
 
@@ -67,10 +67,10 @@
 - **Space Anchor Teleport**
 
 #### Testing / Next Update
-- **Kill Aura** (On world, not battle)
+- **Kill Aura** (on world not battle)
 - **Stats Editor**
 - **Instant Win**
 - **Auto Talk**
 - **Hide UID**
 - **Always Turn**
-- **LUA Executor**
+- **LUA Execute**
