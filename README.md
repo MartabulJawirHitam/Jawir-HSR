@@ -38,7 +38,7 @@
 - **Auto Message**
 
 #### Event
-- **Cosmicon - Roll Cosmicon**
+- **Cosmicon - Roll Again**
 - **Chrysos Awoo Championship**
 - **Sound Hunt: Ninjutsu Inscription**
 - **Saga of Primaveral Blade**
