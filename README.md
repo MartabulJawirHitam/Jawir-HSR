@@ -37,7 +37,13 @@
 - **Skip Cutscene**
 - **Auto Message**
 
-#### Visuals
+#### Event
+- **Cosmicon - Roll Cosmicon**
+- **Chrysos Awoo Championship**
+- **Sound Hunt: Ninjutsu Inscription**
+- **Saga of Primaveral Blade**
+
+### Visuals
 - **ESP**
 - **FOV Changer**
 - **Profile Changer**
