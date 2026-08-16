@@ -22,7 +22,7 @@
 - **NoClip**
 - **Teleport** (Monster, Chest & Puzzle, Quest)
 - **Space Anchor Teleport**
-- **Auto Teleport Chest**
+- **Auto Chest Teleport**
 - **Character Scale**
 - **Character Speed Changer**
 
