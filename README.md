@@ -21,6 +21,7 @@
 #### Player
 - **NoClip**
 - **Teleport** (Monster, Chest & Puzzle, Quest)
+- **Space Anchor Teleport**
 - **Auto Teleport Chest**
 - **Character Scale**
 - **Character Speed Changer**
@@ -64,7 +65,6 @@
 - **Skin Changer**
 - **Unlock Auto Battle**
 - **All Cheat Event**
-- **Space Anchor Teleport**
 
 #### Testing / Next Update
 - **Kill Aura** (on world not battle)
