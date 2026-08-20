@@ -1,4 +1,4 @@
-<p align="center">
+Eventign="center">
   <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i.imgur.com/du53B3S.png">
 </p>
 
@@ -18,14 +18,14 @@
 
 <h1 align="center">Features</h1>
 
-#### Player
+### Player
 - **NoClip**
 - **Teleport** (Monster, Chest & Puzzle, Quest)
 - **Space Anchor Teleport**
 - **Character Scale**
 - **Character Speed Changer**
 
-#### World
+### World
 - **Auto Chest Teleport**
 - **Dumb Enemies**
 - **Auto Puzzle**
@@ -37,7 +37,7 @@
 - **Skip Cutscene**
 - **Auto Message**
 
-#### Event
+### Event
 - **Cosmicon - Roll Again**
 - **Chrysos Awoo Championship**
 - **Sound Hunt: Ninjutsu Inscription**
@@ -56,7 +56,7 @@
 - **Max Light Cone** (S5)
 - **Visual Signature Light Cone**
 
-#### Misc
+### Misc
 - **Key Bind Menu** (INSERT DEFAULT)
 - **Config**
 - **Auto Claim Achievement**
