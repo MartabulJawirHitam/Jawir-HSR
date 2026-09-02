@@ -70,7 +70,9 @@
 - Fast Exit
 - Active Features
 
-<h1 align="center">Development Status</h1>WIP (Work in Progress)
+<h1 align="center">Development Status</h1>
+
+## WIP (Work in Progress)
 
 - Teleport Overlay
 - NPC Spawner
