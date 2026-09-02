@@ -19,8 +19,7 @@
 
 ### Player
 - **NoClip**
-- **Teleport** (Monster, Chest & Puzzle, Quest)
-- **Space Anchor Teleport**
+- **Teleport** (Monster, Chest & Puzzle, Quest, Space Anchor)
 - **Character Scale**
 - **Character Speed Changer**
 
