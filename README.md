@@ -15,7 +15,7 @@
 - Character Scale
 - Character Speed Changer
 
-World
+## World
 
 - Dumb Enemies
 - Auto Puzzle
@@ -29,13 +29,13 @@ World
 - Unlock Auto Battle
 - Auto Talk
 
-Teleport
+## Teleport
 
 - Teleport (Monster, Chest & Puzzle, Quest, Space Anchor)
 - Custom Teleport
 - Auto Teleport Chest
 
-Event
+## Event
 
 - Cosmicon - Roll Again — INSTANT WIN
 - Chrysos Awoo Championship — ATK & HP HACK
@@ -43,7 +43,7 @@ Event
 - Saga of Primaveral Blade — INF STAMINA/MOOD
 - Pixel Plane Rumble — GOD MODE & 1 HIT KILL
 
-Visuals
+## Visuals
 
 - ESP
 - FOV Changer
@@ -57,7 +57,7 @@ Visuals
 - Max Light Cone (S5)
 - Visual Signature Light Cone
 
-Misc
+## Misc
 
 - Key Bind Menu (INSERT DEFAULT)
 - Config
@@ -77,7 +77,7 @@ Misc
 - Skin Changer
 - Instant Kill
 
-Testing / Next Update
+## Testing / Next Update
 
 - Kill Aura (on world not battle)
 - Hide UID
